@@ -1,7 +1,7 @@
 # Reminders app (Table view demo 2)
 A custom built clone of Apple's default Reminders app in iOS.
 
-Started using the tutorial "Put UIDatePicker inside static UITableView" by Oleksandr Manenko.
+Started by using the tutorial "Put UIDatePicker inside static UITableView" by Oleksandr Manenko.
 
 Linked: http://manenko.com/2014/12/19/put-uidatepicker-inside-static-uitableview.html
 
